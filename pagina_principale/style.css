@@ -1,0 +1,72 @@
+#header{
+    background-color: lightskyblue;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+#header h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#navbar{
+    background-color: rgb(90, 64, 64);
+    padding: 10px;
+    text-align: center;
+}
+
+#navbar a{
+    color: green;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 10px
+}
+
+#primo{
+    background-color: rgb(59, 59, 59);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+#primo h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#primo p{
+    font-size: 20px;
+}
+
+#secondo{
+    background-color: rgb(136, 136, 136);
+    padding: 20px;
+    color: white;
+}
+
+#secondo h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#secondo p{
+    font-size: 20px;
+}
+
+#secondo a{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#footer{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
